@@ -1,5 +1,6 @@
 ## <h2 align="center"> :camera: Print do terminal</h2>
-[TERMINAL]()
+[TERMINAL](![image](https://user-images.githubusercontent.com/115744390/227295530-8663fa18-7a42-455d-8c88-392aa66bae92.png)
+)
 
 ## :wrench: Tecnologias Utilizadas
  - Npm
