@@ -1,6 +1,5 @@
 ## <h2 align="center"> :camera: Print do terminal</h2>
-[TERMINAL](![image](https://user-images.githubusercontent.com/115744390/227295530-8663fa18-7a42-455d-8c88-392aa66bae92.png)
-)
+(![image]https://github.com/PAPELgg/PROJETO---MOD.-5-iv/blob/main/img/terminal.png?raw=true)
 
 ## :wrench: Tecnologias Utilizadas
  - Npm
